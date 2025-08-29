@@ -208,12 +208,12 @@ pip install numpy matplotlib scipy trimesh pythonocc-core
 
 ## 📜 License
 
-MIT License.  
+Apache-2.0 license.  
 Free for personal, academic, and commercial use.  
 
 ---
 
 ## 👨‍💻 Author
 
-Developed by **[Your Name]**.  
+Developed by **[ZephyrFBD]**.  
 If you find this project useful, please ⭐ the repo!
